@@ -8,8 +8,8 @@ on:
    
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: ${{ sdhumal341@gmail.com }}
-  GitHubName: ${{ carolyn99240 }}
+  GitHubMail: ${{ secrets.GITHUBMAIL }}
+  GitHubName: ${{ secrets.GITHUBNAME }}
 
 jobs:
   # 1st Job for running bot 1
