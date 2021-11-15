@@ -8,7 +8,7 @@ on:
    
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: ${{ carolyn.ballenger@my.gavilan.edu }}
+  GitHubMail: ${{ sdhumal341@gmail.com }}
   GitHubName: ${{ carolyn99240 }}
 
 jobs:
